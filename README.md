@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zarser
+- 👋 Hi, I’m @ Kristoffer aka ingame name: Zarser, VanillafLavour
 - 👀 I’m interested in ... Fishing, nature, PC hardware/software, IT
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ... Anything
