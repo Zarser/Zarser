@@ -12,7 +12,7 @@ Here are some of the technologies I work with:
 
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Tools**: Git, GitHub, Visual Studio Code, Visual Studio, PhotoShop, DaVinci
-- **Others**: APIs, Responsive Design, JSON
+- **Others**: APIs, Responsive Design, UI/UX, JSON
 
 ## 🌱 Current Projects
 
