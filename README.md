@@ -20,7 +20,7 @@ Here are a few of the projects I’m currently working on:
 
 - **[Cakery](https://github.com/zarser/Cakery)**: A web application for exploring and discovering cake recipes. Designed for both novice and experienced bakers, featuring a responsive interface and search functionality.
 
-- **[My Portfoile](https://github.com/Zarser/Portfolie)**: A brief description of this project.
+- **[My Portfoile](https://github.com/Zarser/PortFolie-new)**: A brief description of this project.
 
 - **[DayZ ChatBot](https://github.com/Zarser/Dayz-Support-Bot)**: A brief description of this project.
 
